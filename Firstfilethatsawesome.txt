@@ -1,3 +1,7 @@
-This is our first text to put into git.
+
 
 Remember to bring your ticket on Saturday.
+
+Hello World
+
+Hey There :)
